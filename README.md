@@ -1,6 +1,8 @@
-## Your Name
+## Mohammed Salah
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A Ruby and JavaScript Web Developer who is currently working on the front-end but also has interest in the back-end. Having had a short career as an Electrical Engineer, my thirst for problem solving and critical thinking makes me a developer focused on the finer details. 
+
+Tech is the future and being a part of shaping that future for the better is why I am really excited to get in the industry. 
 
 ## Projects
 
@@ -11,15 +13,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Aker Solutions** (Sep 2019 to Sep 2021)  
+Electrical Engineer
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Ability to adhere to client regulations and comments with constant communication,         which made necessary adjustments to projects run as smoothly as possible.
+- Working towards chartership as a member of the IET.
+- Developed a test equipment and resource planning tool, which could also be used as a template
+for future projects, which convinced a client to spend a further £400k on the project.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -53,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2021 to Jan 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,15 +63,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Swansea University (Sep 2015 to July 2018)
 
-- Subject, any specialisms
-- Grade
+- BEng Electrical & Electronic Engineering
+- 2:1
 - Other cool stuff
 
-#### Any other qualifications
+#### Cardiff University (Sep 2018 to Sep 2019)
 
-That in some arguable way make you a better software developer or well-rounded person
+- MSc Electrical Energy Systems
+- Merit
 
 ## Hobbies
 
