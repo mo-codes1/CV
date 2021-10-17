@@ -73,4 +73,6 @@ MSc Electrical Energy Systems (Merit)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Gym - I try to hit the gym about 3/4 times a week with some lifting and cardio
+- Football - Play for a local team on Saturdays and some 5 a side sessions.
+- Gaming - Warzone at the moment is my passion
