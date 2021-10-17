@@ -8,8 +8,9 @@ Tech is the future and being a part of shaping that future for the better is why
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Student Directory**            |The student directory script allows you to manage the list of students enrolled at Villains Academy. Completed during the pre-course at Makers. | React, Jest, etc. |
+| **Counter** | A webapp that allows the user to increment or decrement by 1 and also to reset the count if need be. | HTML, CSS, JavaScript              |
+| **
 
 ## Work Experience
 
