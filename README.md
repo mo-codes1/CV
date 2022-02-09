@@ -1,5 +1,21 @@
 ## Mohammed Salah
 
+<div align="center">
+  <h1>Mohammed Salah</h1>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/mohammed-salah-miet-7309b116a/">
+        <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="">
+        <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://www.codewars.com/users/mosalah123">
+        <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
+    </a>
+  </div>
+  <br>
+
 A Ruby and JavaScript Web Developer who is currently working on the front-end but also has interest in the back-end. Having had a short career as an Electrical Engineer, my thirst for problem solving and critical thinking makes me a developer focused on the finer details. 
 
 Tech is the future and being a part of shaping that future for the better is why I am really excited to get in the industry. 
